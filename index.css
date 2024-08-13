@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+    padding: 5px;
+    border: 2px solid black;
+}
+section{
+    display: inline-block;
+}
+img,h1,p{
+    width: 200px;
+    height: auto;
+}
+#img1{
+    /* margin: 30px; */
+    vertical-align: top;
+    
+}
+#img2{
+    
+    vertical-align: top;
+    
+}
+#img3{
+    /* margin-left: 800px; */
+    vertical-align: top;
+    
+}
+#img4{
+    /* margin-left: 1200px; */
+    vertical-align: top;
+    
+}
+*{
+    text-align: center;
+    padding: 20px;
+}
